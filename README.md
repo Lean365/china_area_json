@@ -3,5 +3,5 @@
 ### 数据下载
 | 文件列表                                    |  带编码 |
 |:--------------------------------------------|:-------|
-| “省份、城市、区县、乡镇、村庄” 五级联动数据  |[pcasv-code.rar](https://github.com/modood/Administrative-divisions-of-China/blob/master/dist/pcas-code.json) |
+| “省份、城市、区县、乡镇、村庄” 五级联动数据  |[pcasv-code.rar](https://github.com/Lean365/-china_area_json/blob/master/pcasv-code.rar) |
 
